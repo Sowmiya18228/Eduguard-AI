@@ -68,16 +68,26 @@ https://eduguard-ai-2026.streamlit.app
 ## 📁 Project Structure
 
 ```text
-EduGuard-AI/
+Eduguard-AI/
 │
 ├── app.py
 ├── requirements.txt
-├── dropout_model.pkl
-├── dataset.csv
 ├── README.md
-├── prediction_tab.png
-├── student_support_tab.png
-└── bulk_prediction_tab.png
+│
+├── models/
+│   └── dropout_model.pkl
+│
+├── screenshots/
+│   ├── screenshot1.png
+│   ├── screenshot2.png
+│   └── screenshot3.png
+│
+├── data/
+│   ├── raw/
+│   │   └── student-mat.csv
+│   │
+│   └── processed/
+│       └── cleaned_student_data.csv
 ```
 
 ---
@@ -86,15 +96,15 @@ EduGuard-AI/
 
 ### Prediction Module
 
-![Prediction](prediction_tab.png)
+![Prediction](screenshots/prediction_tab.png)
 
 ### Student Support Assistant
 
-![Student Support](student_support_tab.png)
+![Student Support](screenshots/student_support_tab.png)
 
 ### Bulk Prediction
 
-![Bulk Prediction](bulk_prediction_tab.png)
+![Bulk Prediction](screenshots/bulk_prediction_tab.png)
 
 ---
 
