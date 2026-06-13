@@ -31,8 +31,6 @@ EduGuard AI is a machine learning-based web application that helps educational i
 * Download prediction reports
 * Automatic column mapping support
 
----
-
 ## 🧠 Machine Learning Model
 
 * Algorithm: Random Forest Classifier
@@ -44,8 +42,6 @@ EduGuard AI is a machine learning-based web application that helps educational i
   * Internal Mark 1 (G1)
   * Internal Mark 2 (G2)
 
----
-
 ## 🛠️ Technology Stack
 
 * Python
@@ -56,8 +52,6 @@ EduGuard AI is a machine learning-based web application that helps educational i
 * Plotly
 * ReportLab
 * Groq API
-
----
 
 ## 📁 Project Structure
 
@@ -79,11 +73,6 @@ EduGuard-AI/
 * Educational analytics
 * Student counselling support
 
----
-
 ## 👩‍💻 Developed By
 
 Sowmiya N
-B.Tech-AI&DS
-
-
