@@ -67,8 +67,11 @@ EduGuard-AI/
 ├── app.py
 ├── requirements.txt
 ├── dropout_model.pkl
+├── dataset.csv
 ├── README.md
-└── dataset.csv
+├── prediction_tab.png
+├── student_support_tab.png
+└── bulk_prediction_tab.png
 ```
 
 ---
