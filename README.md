@@ -73,6 +73,22 @@ EduGuard-AI/
 
 ---
 
+## 📸 Application Screenshots
+
+### Prediction Module
+
+![Prediction](prediction_tab.png)
+
+### Student Support Assistant
+
+![Student Support](student_support_tab.png)
+
+### Bulk Prediction
+
+![Bulk Prediction](bulk_prediction_tab.png)
+
+---
+
 ## 🎯 Real-World Applications
 
 * Student dropout prevention
