@@ -31,6 +31,8 @@ EduGuard AI is a machine learning-based web application that helps educational i
 * Download prediction reports
 * Automatic column mapping support
 
+  ---
+
 ## 🧠 Machine Learning Model
 
 * Algorithm: Random Forest Classifier
