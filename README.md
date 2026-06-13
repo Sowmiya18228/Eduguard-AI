@@ -6,6 +6,12 @@ EduGuard AI is a machine learning-based web application that helps educational i
 
 ---
 
+🚀 Live Demo
+
+https://eduguard-ai-2026.streamlit.app
+
+---
+
 ## 🚀 Features
 
 ### ⚡ Individual Student Prediction
